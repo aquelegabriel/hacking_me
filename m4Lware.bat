@@ -1,6 +1,6 @@
 @echo off
 title TITULO
-cd/
+cd..
 cd Users
 cd adail
 cd desktop
